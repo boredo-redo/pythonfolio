@@ -1,0 +1,3 @@
+email,subject,message
+isaac.gonzalvous@gmail.com,discord invite,asdasd
+igonzalvo@indracompany.com,discord invite,Try lang
